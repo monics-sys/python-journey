@@ -1,0 +1,7 @@
+print("CALCULATOR")
+x = int(input("value of x : "))
+y = int(input("value of y : "))
+print("addition", x + y)
+print("subtraction", x - y)
+print("multiplication", x * y)
+print("division", x / y)
